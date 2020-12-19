@@ -44,11 +44,12 @@ footer {
   margin-top: 4rem;
   width: 7rem;
   height: 2.5rem;
-  background: #9C060C;
-  color: white;
+  background: #4ECCA3;
+  color: red;
   outline: none;
 }
 
 .button:hover {
-  background-color: #4ECCA3;
+  background:#9C060C;
+  color: #FAF1D8;
 }
