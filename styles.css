@@ -17,7 +17,8 @@ body {
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
+  /*text-shadow: 5px 0 #232931;*/
+  text-shadow: 2.5px 2.5px #9C060C;
   font-size: 8rem;
   color: #4ECCA3;
 }
@@ -43,8 +44,11 @@ footer {
   margin-top: 4rem;
   width: 7rem;
   height: 2.5rem;
+  background: #9C060C;
+  color: white;
+  outline: none;
 }
 
 .button:hover {
-  background-color: rgb(78,204,163);
+  background-color: #4ECCA3;
 }
